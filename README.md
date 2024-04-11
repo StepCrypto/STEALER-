@@ -1,8 +1,4 @@
-  <div align="center">
-  <div>
-    <img  src="https://i.hizliresim.com/998zxyv.png">
-  </div>
-  </div> 
+   
 
 </p>
 <p align="center">
@@ -17,13 +13,7 @@
     <br>
 </p>
  
-<p align="center">
-  Telegram: https://t.me/cstealerr
-  <br>
-  🔱 Join Telegram for support and contact 🔱
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-</p>
-<br>
+
     
 ## Features
 
@@ -100,21 +90,11 @@
 4. Run the builder by double clicking the `builder.pyw` file
 5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `cstealer.exe`
 
-<div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/can-kat/cstealer/main/CStealer_assets/img/ss1.png"></img>
-    <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">    
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/can-kat/cstealer/main/CStealer_assets/img/ss2.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/can-kat/cstealer/main/CStealer_assets/img/ss3.png"></img>
-  <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/can-kat/cstealer/main/CStealer_assets/img/ss4.png"></img>
-    <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%"> 
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/can-kat/cstealer/main/CStealer_assets/img/ss5.png"></img>
-  
-</div>
+
 
 > [!CAUTION]
 > This tool is for educational purposes only. It is coded for you to see how your files are simply stolen and how to take action. Do not use for illegal purposes. We are never responsible for illegal use. <bold>Educational purpose only!</bold>
 
 > [!WARNING]
-> By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/.
-
+> By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository.
 <a href=#top>Back to Top</a></p>
